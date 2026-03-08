@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Arista Wellness Center</title>
+  <desc id="desc">Primary logo with transparent background and balanced padding.</desc>
+  <g transform="translate(160,130)">
+    <g fill="#7f838a">
+      <path d="M470 362c22-16 45-21 67-13-14 5-25 11-32 23 16-4 31-3 42 5-11 2-21 7-27 18 18 7 35 21 45 40-27-10-52-11-74-1-10 5-18 10-23 20 0-17-6-31-18-41-15-12-34-16-53-11 19-13 45-25 73-40z"/>
+      <path d="M511 338c0-23 16-40 40-42-8 12-10 24-7 34 10-14 22-22 37-23-7 10-10 21-10 32 0 12-7 21-17 29-17-13-30-22-43-30z"/>
+      <path d="M559 332c2-19 14-33 32-39-5 11-6 21-4 30 8-10 18-16 31-17-6 8-9 17-10 27-1 13-9 23-20 31-10-10-19-19-29-32z"/>
+    </g>
+    <g fill="#2b2d33">
+      <text x="540" y="700" text-anchor="middle" font-family="Oswald, Arial, sans-serif" font-size="230" font-style="italic" font-weight="700" letter-spacing="4">ARISTA</text>
+      <text x="540" y="790" text-anchor="middle" font-family="Oswald, Arial, sans-serif" font-size="95" font-style="italic" font-weight="600" letter-spacing="1.5">WELLNESS CENTER</text>
+    </g>
+  </g>
+</svg>
